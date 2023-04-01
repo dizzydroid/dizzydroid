@@ -1,4 +1,4 @@
-# Hi there, I'm Shehab 👋🏻👨🏻‍💻
+# Hi there, I'm Shehab 👋🏻
 <img src="https://raw.githubusercontent.com/dizzydroid/dizzydroid/main/dizzydroid_header.png">
 
 <h2 align="center">
