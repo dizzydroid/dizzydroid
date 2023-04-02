@@ -10,7 +10,12 @@
 </h2>
 
 An engineering student, I do things and stuff when i feel like it. Probably procrastinating right now.
-
+<br><br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,visualstudio,twitter,discord,figma,wordpress,ps,pr,ai,ae,au" />
+  </a>
+</p>
 
 <!-- footer --!>
 <img src="https://imgur.com/rilHVxA.png"/>
+
