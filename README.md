@@ -12,7 +12,7 @@
 An engineering student, I do things and stuff when i feel like it. Probably procrastinating right now.
 <br><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,visualstudio,twitter,discord,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,visualstudio,github,atom,discord,twitter,wordpress" /><br>
     <img src="https://skillicons.dev/icons?i=figma,ps,pr,ai,ae,au" />
   </a>
 </p>
