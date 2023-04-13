@@ -12,8 +12,8 @@
 An engineering student, I do things and stuff when i feel like it. Probably procrastinating right now.
 <br><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript,visualstudio,github,atom,discord,twitter" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,figma,ps,pr,ai,ae,au" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript,react,nodejs,visualstudio,github,vscode,atom" /><br>
+    <img src="https://skillicons.dev/icons?i=discord,twitter,wordpress,figma,ps,pr,ai,ae,au" />
   </a>
 </p>
 
