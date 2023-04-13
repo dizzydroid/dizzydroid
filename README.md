@@ -17,6 +17,14 @@ An engineering student, I do things and stuff when i feel like it. Probably proc
   </a>
 </p>
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=dizzydroid&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzydroid&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+
+</details>
+
 <!-- footer --!>
 <img src="https://imgur.com/rilHVxA.png"/>
 
