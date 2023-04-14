@@ -4,8 +4,10 @@
 <h2 align="center">
 
 [![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dizzydroid)
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:shehabmahmoud2003@gmail.com)
-[![Github](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShehabMahmoud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShehabMahmoud)
+
 
 </h2>
 
