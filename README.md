@@ -11,7 +11,7 @@
 
 </h2>
 
-An engineering student, I do things and stuff when i feel like it. Probably procrastinating right now.
+An engineering student, I do things and stuff when i feel like it. Probably procrastinating right now..
 <br>
 ________________
 <p align="center">
