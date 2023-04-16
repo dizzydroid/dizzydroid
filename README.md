@@ -15,7 +15,7 @@ An engineering student, I do things and stuff when i feel like it. Probably proc
 <br>
 ________________
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript,react,nodejs,visualstudio,github,vscode,atom" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,javascript,css,react,nodejs,visualstudio,github,vscode,atom" /><br>
     <img src="https://skillicons.dev/icons?i=discord,twitter,wordpress,figma,ps,pr,ai,ae,au" />
   </a>
 </p>
