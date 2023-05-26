@@ -9,8 +9,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:shehabmahmoud2003@gmail.com)<br>
 [![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/tvn7wa873c4ytlxdwvlxwp5ft)
 [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![MAL](https://img.shields.io/badge/MyAnimeList-2e51a2?style=flat-square&logo=MyAnimeList&logoColor=white)](https://myanimelist.net/profile/DizzyDroid)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShehabMahmoud)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShehabMahmoud)
+<!--[![MAL](https://img.shields.io/badge/MyAnimeList-2e51a2?style=flat-square&logo=MyAnimeList&logoColor=white)](https://myanimelist.net/profile/DizzyDroid)-->
+
 
 
 
