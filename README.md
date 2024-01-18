@@ -3,7 +3,7 @@
 
 <h2 align="center">
 
-[![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dizzydroid)
+<!--[![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dizzydroid)-->
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
 [![Steam](https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/dizzydroid/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:shehabmahmoud2003@gmail.com)
