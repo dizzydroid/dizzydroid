@@ -28,7 +28,7 @@ ________________
     <img src="https://skillicons.dev/icons?i=linux,discord,twitter,wordpress,autocad,figma,ps,pr,ai,ae,au" />
   </a>
 </p>
-
+<br>
 <details>
   <summary>Github Stats ⚡</summary>
   
