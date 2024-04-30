@@ -1,7 +1,8 @@
-# Hi there, I'm Shehab 👋🏻
+<h2> Hi there, I'm Shehab! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl3Znl2a3ZwOGt6MzVoYmR1N2ljMDk5NGl6MnoxNXZwYzl4dGI0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JtBiXxBk46YfxGkPfB/giphy.gif" width="70"></h2>
 <img src="https://raw.githubusercontent.com/dizzydroid/dizzydroid/main/dizzydroid_header.png">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhucnBuYjF1dnJ1ZGsxZjZncHJxY3cxaTVqbzR4dmdqdHlkdzVvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FDyb54WxxoKoMm98hG/giphy.gif" width="230">
 
-<h2 align="center">
+<div align="center">
 
 <!--[![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dizzydroid)-->
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
@@ -17,14 +18,14 @@
 
 
 
-</h2>
+</div>
 
 An Engineering student, I do things and stuff when i feel like it. Probably procrastinating right now..
 <br>
 ________________
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,visualstudio,github,vscode,atom" /><br>
-    <img src="https://skillicons.dev/icons?i=git,linux,discord,twitter,wordpress,autocad,matlab,ps,pr,ai,ae,au" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,git,visualstudio,github,vscode,atom" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,discord,twitter,wordpress,autocad,figma,ps,pr,ai,ae,au" />
   </a>
 </p>
 
