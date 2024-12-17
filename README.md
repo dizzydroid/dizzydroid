@@ -7,7 +7,8 @@
 <!--[![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dizzydroid)-->
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
 [![Steam](https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/dizzydroid/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:shehabmahmoud2003@gmail.com)<br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:shehabmahmoud2003@gmail.com)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-432f10?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/dizzydroid)<br>
 [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/tvn7wa873c4ytlxdwvlxwp5ft)
 [![behance](https://img.shields.io/badge/-Behance-000b1d?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/dizzydroid)
