@@ -12,6 +12,7 @@
 [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/tvn7wa873c4ytlxdwvlxwp5ft)
 [![behance](https://img.shields.io/badge/-Behance-000b1d?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/dizzydroid)
+[![monkeytype](https://img.shields.io/badge/-Monkeytype-20242c?style=flat-square&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/dizzydroid)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShehabMahmoud)-->
 <!--[![GoodReads](https://img.shields.io/badge/Goodreads-ece9d4?style=flat-square&logo=goodreads&logoColor=412e1f)](https://www.goodreads.com/shehabreads)-->
 <!--[![MAL](https://img.shields.io/badge/MyAnimeList-2e51a2?style=flat-square&logo=MyAnimeList&logoColor=white)](https://myanimelist.net/profile/DizzyDroid)-->
