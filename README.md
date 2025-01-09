@@ -38,7 +38,7 @@ ________________
   <a href="#">![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=dizzydroid&langs_count=6&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 <div align = "center">  
 <!-- streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dizzydroid&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dizzydroid&theme=transparent&hide_border=true" />
 </div>           
 </details>
 
