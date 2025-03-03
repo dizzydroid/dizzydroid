@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Shehab! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl3Znl2a3ZwOGt6MzVoYmR1N2ljMDk5NGl6MnoxNXZwYzl4dGI0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JtBiXxBk46YfxGkPfB/giphy.gif" width="70"></h2>
 <img src="https://raw.githubusercontent.com/dizzydroid/dizzydroid/main/dizzydroid_header.png">
 <!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhucnBuYjF1dnJ1ZGsxZjZncHJxY3cxaTVqbzR4dmdqdHlkdzVvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FDyb54WxxoKoMm98hG/giphy.gif" width="230"> -->
-<img align='right' src="https://i.giphy.com/nMy8HTFQRWpudNwbxQ.webp" width="230">
+<img align='right' src="https://i.giphy.com/nMy8HTFQRWpudNwbxQ.webp" width="150">
 
 <div align="center">
 
