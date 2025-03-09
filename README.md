@@ -7,7 +7,14 @@
 </div>
 
 ---
-<br>
+
+```console
+shehab@dizzydroid: ~$ whoami
+A computer engineer, I do things and stuff when i feel like it.
+(probably stuck in Vim right now.)
+```
+
+### find me on:
 <!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhucnBuYjF1dnJ1ZGsxZjZncHJxY3cxaTVqbzR4dmdqdHlkdzVvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FDyb54WxxoKoMm98hG/giphy.gif" width="230"> -->
 <!-- <img align='right' src="https://i.giphy.com/nMy8HTFQRWpudNwbxQ.webp" width="150"> -->
 
@@ -31,8 +38,7 @@
 
 </div>
 
-A computer engineer, I do things and stuff when i feel like it. <br> Probably stuck in Vim right now.
-<br>
+
 ________________
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,git,visualstudio,github,vscode,atom" /><br>
