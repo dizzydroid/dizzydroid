@@ -43,7 +43,7 @@ A computer engineer, I do things and stuff when i feel like it.
 
 ________________
 <p align="center">
-   <a href = ""> 
+   <a href = "#"> 
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,git,visualstudio,github,vscode,atom" /><br>
     <img src="https://skillicons.dev/icons?i=linux,discord,twitter,wordpress,javascript,idea,ps,pr,ai,ae,au" />
   </a>
@@ -63,5 +63,6 @@ ________________
 ________________
 
 <!-- footer -->
+<a href = "#">
 <img src="https://imgur.com/rilHVxA.png"/>
-
+</a>
