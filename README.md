@@ -11,7 +11,7 @@
 ```console
 shehab@dizzydroid: ~$ whoami
 A computer engineer, I do things and stuff when i feel like it.
-(probably stuck in Vim right now.)
+(probably procrastinating right now.)
 ```
 
 ### find me on:
