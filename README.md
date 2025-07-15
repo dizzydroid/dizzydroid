@@ -21,9 +21,8 @@ A computer engineer, I do things and stuff when i feel like it.
 <div align="center">
 
 <!--[![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dizzydroid)-->
-[![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
+[![Discord](https://img.shields.io/badge/Discord-2c2f33?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
 [![Steam](https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/dizzydroid/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:shehabmahmoud2003@gmail.com)
 [![behance](https://img.shields.io/badge/-Behance-000b1d?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/dizzydroid)
 [![monkeytype](https://img.shields.io/badge/-Monkeytype-20242c?style=flat-square&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/dizzydroid)
 <!--[![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/tvn7wa873c4ytlxdwvlxwp5ft)-->
@@ -31,6 +30,7 @@ A computer engineer, I do things and stuff when i feel like it.
 <!--[![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)-->
 <!--[![Kaggle](https://img.shields.io/badge/-Kaggle-234d5c?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dizzydroid)-->
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShehabMahmoud)-->
+<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabmahmoud2003@gmail.com)](mailto:shehabmahmoud2003@gmail.com)-->
 <!--[![GoodReads](https://img.shields.io/badge/Goodreads-ece9d4?style=flat-square&logo=goodreads&logoColor=412e1f)](https://www.goodreads.com/shehabreads)-->
 <!--[![MAL](https://img.shields.io/badge/MyAnimeList-2e51a2?style=flat-square&logo=MyAnimeList&logoColor=white)](https://myanimelist.net/profile/DizzyDroid)-->
 
