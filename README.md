@@ -10,7 +10,7 @@
 
 ```console
 shehab@dizzydroid: ~$ whoami
-A computer engineer, I do things and stuff when i feel like it.
+A computer engineer, I write code sometimes.
 (probably procrastinating right now.)
 ```
 
