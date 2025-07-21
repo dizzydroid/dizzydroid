@@ -14,7 +14,7 @@ A computer engineer, I write code sometimes.
 (probably procrastinating right now.)
 ```
 
-### find me on:
+#### Find me on:
 <!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhucnBuYjF1dnJ1ZGsxZjZncHJxY3cxaTVqbzR4dmdqdHlkdzVvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FDyb54WxxoKoMm98hG/giphy.gif" width="230"> -->
 <!-- <img align='right' src="https://i.giphy.com/nMy8HTFQRWpudNwbxQ.webp" width="150"> -->
 
