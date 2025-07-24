@@ -10,18 +10,19 @@
 
 ```console
 shehab@dizzydroid: ~$ whoami
-A computer engineer, I write code sometimes.
+A computer engineer. 
+I write code sometimes.
 (probably procrastinating rn.)
 ```
-
+<!--
 #### Also on:
 <!--<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhucnBuYjF1dnJ1ZGsxZjZncHJxY3cxaTVqbzR4dmdqdHlkdzVvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FDyb54WxxoKoMm98hG/giphy.gif" width="230"> -->
 <!-- <img align='right' src="https://i.giphy.com/nMy8HTFQRWpudNwbxQ.webp" width="150"> -->
-
+<!--
 <div align="center">
 
 <!--[![Github](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dizzydroid)-->
-[![Discord](https://img.shields.io/badge/Discord-2c2f33?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
+<!--[![Discord](https://img.shields.io/badge/Discord-2c2f33?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/503592150219358228)
 [![Steam](https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/dizzydroid/)
 [![monkeytype](https://img.shields.io/badge/-Monkeytype-20242c?style=flat-square&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/dizzydroid)
 <!--[![Spotify](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/tvn7wa873c4ytlxdwvlxwp5ft)-->
@@ -35,7 +36,7 @@ A computer engineer, I write code sometimes.
 
 
 
-
+<!--
 
 </div>
 
@@ -48,20 +49,20 @@ ________________
   </a> 
 </p>
 <br> -->
-<details>
+<!--<details>
   <summary>GitHub Stats 📊</summary>
   
   <a href="#">![Github stats](https://readme-stats.clckblog.space/api?username=dizzydroid&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=dizzydroid&langs_count=6&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 <div align = "center">  
 <!-- streak stats -->
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dizzydroid&theme=transparent&hide_border=true" />
+<!--  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dizzydroid&theme=transparent&hide_border=true" />
 </div>           
 </details>
 
 ________________
 
 <!-- footer -->
-<a href = "#">
-<img src="https://imgur.com/rilHVxA.png"/>
+<!--<a href = "#">
+<img src="footer_img.png"/>
 </a>
