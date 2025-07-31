@@ -1,13 +1,13 @@
-<h2> Hi there, I'm Shehab! <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl3Znl2a3ZwOGt6MzVoYmR1N2ljMDk5NGl6MnoxNXZwYzl4dGI0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JtBiXxBk46YfxGkPfB/giphy.gif" width="70">--></h2>
+<!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl3Znl2a3ZwOGt6MzVoYmR1N2ljMDk5NGl6MnoxNXZwYzl4dGI0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JtBiXxBk46YfxGkPfB/giphy.gif" width="70">--></h2>
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="TIF_dark.svg">
   <img alt="" src="TIF_light.svg">
 </picture>
 </div>
-
+<!--
 ---
-
+<!--
 ```console
 shehab@dizzydroid: ~$ whoami
 A computer engineer. 
